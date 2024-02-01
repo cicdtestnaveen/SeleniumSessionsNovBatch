@@ -21,7 +21,7 @@ public static WebDriver driver;
 		goIbiboDepartureDatePicker("Feb","22");
 		
 		
-		
+		//Click on Done
 		driver.findElement(By.cssSelector(".fswTrvl__done")).click();
 		
 	}
