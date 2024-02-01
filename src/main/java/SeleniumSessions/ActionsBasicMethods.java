@@ -35,7 +35,6 @@ public class ActionsBasicMethods {
 
 		actions.sendKeys(un, "Naveen").perform();
 		actions.click(submitBtn).perform();
-		
 	}
 
 }
